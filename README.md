@@ -16,16 +16,17 @@
 
 I design and build modern, responsive websites with a focus on **strong visual hierarchy, polished user experience, responsive behavior, and clear calls to action**.
 
-My current portfolio focus includes **healthcare and clinic websites, business websites, landing pages, website redesigns, and interactive front-end experiences**.
+My current portfolio focus includes **healthcare and clinic websites, beauty and aesthetics websites, business websites, landing pages, website redesigns, and interactive front-end experiences**.
 
 ---
 
 ## 🚀 Featured Work
 
-| Project | Focus | Stack | Explore |
-| --- | --- | --- | --- |
-| 🩺 **Pacific Pain Clinic** | Healthcare website redesign concept focused on trust, treatment clarity and appointment UX | HTML · CSS · JavaScript | [View Project](https://github.com/mahdi-1949/pacific-pain-clinic-concept) |
-| 💼 **Portfolio Website** | Responsive multi-page personal portfolio | HTML · SCSS · JavaScript | [View Project](https://github.com/mahdi-1949/portfolio) |
+| Project | Focus | Stack | Live Demo | Source |
+| --- | --- | --- | --- | --- |
+| 🩺 **Pacific Pain Clinic** | Healthcare website redesign concept focused on trust, treatment clarity and appointment UX | HTML · CSS · JavaScript | [Open Site](https://mahdi-1949.github.io/pacific-pain-clinic-concept/) | [View Code](https://github.com/mahdi-1949/pacific-pain-clinic-concept) |
+| ✨ **Arisa Medical Aesthetics** | Premium responsive landing page for a California medical aesthetics clinic | HTML · CSS · JavaScript | [Open Site](https://mahdi-1949.github.io/beauty-service/) | [View Code](https://github.com/mahdi-1949/beauty-service) |
+| 💼 **Portfolio Website** | Responsive multi-page personal portfolio | HTML · SCSS · JavaScript | [Open Site](https://mahdi-1949.github.io/portfolio/) | [View Code](https://github.com/mahdi-1949/portfolio) |
 
 ---
 
@@ -48,6 +49,7 @@ My current portfolio focus includes **healthcare and clinic websites, business w
 - Landing page design
 - Website redesigns
 - Healthcare & clinic websites
+- Beauty & aesthetics websites
 - Business websites
 - Conversion-focused calls to action
 
@@ -78,8 +80,9 @@ I'm open to freelance work involving:
 
 - 🌐 Business websites
 - 🩺 Healthcare & clinic websites
+- ✨ Beauty & aesthetics websites
 - 🎯 Landing pages
-- ✨ Website redesigns
+- 🔄 Website redesigns
 - 📱 Responsive front-end implementation
 - ⚡ Interactive UI experiences
 

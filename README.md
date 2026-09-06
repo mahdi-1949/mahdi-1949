@@ -1,73 +1,104 @@
-# Hi, I'm Mahdi Tavakoli 👋
+<div align="center">
+
+# Mahdi Tavakoli 👋
 
 ### Web Designer & Front-End Developer
 
-I design and build modern, responsive websites with a focus on clean visual systems, strong UX, and polished front-end implementation.
+**Modern websites · Responsive UI · Healthcare · Business · Landing Pages**
 
-I’m especially interested in **healthcare websites, business websites, landing pages, responsive interfaces, and interactive web experiences**.
+<img src="https://img.shields.io/badge/Available%20for-Freelance%20Projects-2ea44f?style=for-the-badge" alt="Available for freelance projects" />
 
----
-
-## Featured Work
-
-### 🩺 Pacific Pain Clinic — Website Redesign Concept
-A modern healthcare website redesign focused on trust, treatment clarity, responsive UX, and appointment-oriented calls to action.
-
-[View Repository](https://github.com/mahdi-1949/pacific-pain-clinic-concept)
-
-### 💼 Portfolio Website
-A responsive multi-page personal portfolio built with HTML, SCSS/CSS, and JavaScript.
-
-[View Repository](https://github.com/mahdi-1949/portfolio)
-
-### ⚡ Vanilla JavaScript Projects
-A collection of interactive front-end projects including games, utilities, UI experiments, media tools, and API-driven experiences.
-
-[View Repository](https://github.com/mahdi-1949/vanilaJavaScript-projects)
-
-### 📱 Responsive Design Experiments
-Responsive layout and interface experiments focused on adaptable front-end patterns and animated UI elements.
-
-[View Repository](https://github.com/mahdi-1949/responsive-design)
-
-### ✨ Creative UI Components
-Reusable front-end interaction experiments including animated navigation and form components.
-
-[View Repository](https://github.com/mahdi-1949/creative-components)
+</div>
 
 ---
 
-## What I Work With
+## 👨‍💻 About Me
 
-- HTML5
-- CSS / SCSS
-- JavaScript
+I design and build modern, responsive websites with a focus on **strong visual hierarchy, polished user experience, responsive behavior, and clear calls to action**.
+
+My current portfolio focus includes **healthcare and clinic websites, business websites, landing pages, website redesigns, and interactive front-end experiences**.
+
+---
+
+## 🚀 Featured Work
+
+| Project | Focus | Stack | Explore |
+| --- | --- | --- | --- |
+| 🩺 **Pacific Pain Clinic** | Healthcare website redesign concept focused on trust, treatment clarity and appointment UX | HTML · CSS · JavaScript | [View Project](https://github.com/mahdi-1949/pacific-pain-clinic-concept) |
+| 💼 **Portfolio Website** | Responsive multi-page personal portfolio | HTML · SCSS · JavaScript | [View Project](https://github.com/mahdi-1949/portfolio) |
+| ⚡ **Vanilla JavaScript Projects** | Interactive apps, games, utilities and API-driven experiments | JavaScript · HTML · CSS | [View Collection](https://github.com/mahdi-1949/vanilaJavaScript-projects) |
+| 📱 **Responsive Design** | Adaptive layouts, navigation and interface experiments | HTML · CSS · JavaScript | [View Collection](https://github.com/mahdi-1949/responsive-design) |
+| ✨ **Creative Components** | Animated UI and reusable front-end interactions | HTML · CSS · JavaScript | [View Components](https://github.com/mahdi-1949/creative-components) |
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+### I focus on
+
 - Responsive Web Design
-- UI Implementation
-- Front-End Interaction Design
-- Python fundamentals and experiments
-
----
-
-## What I Care About
-
-I like websites that feel intentional—not just pages filled with text. My work focuses on visual hierarchy, responsive behavior, clear calls to action, and creating interfaces that feel polished across desktop and mobile.
-
----
-
-## Available for Freelance Projects
-
-I’m open to freelance website design and front-end development projects, including:
-
-- Business websites
-- Healthcare and clinic websites
-- Landing pages
+- UI implementation
+- Front-end interaction design
+- Landing page design
 - Website redesigns
-- Responsive front-end implementation
-- Interactive UI experiences
-
-If you'd like to work together, reach out through my [GitHub profile](https://github.com/mahdi-1949).
+- Healthcare & clinic websites
+- Business websites
+- Conversion-focused calls to action
 
 ---
 
-**Selected work and new case studies are continuously being added.**
+## 📊 GitHub Activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mahdi-1949&show_icons=true&hide_border=true&rank_icon=github" alt="Mahdi's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-1949&layout=compact&hide_border=true" alt="Mahdi's top languages" />
+</div>
+
+---
+
+## 🎯 How I Approach Web Design
+
+A good website should do more than look modern. I aim to make every interface feel intentional by balancing:
+
+**Visual clarity** → **Responsive behavior** → **Easy navigation** → **Strong calls to action** → **Clean implementation**
+
+I particularly enjoy transforming older or visually weak websites into experiences that feel more trustworthy, modern and easier to use.
+
+---
+
+## 🤝 Available for Freelance Projects
+
+I'm open to freelance work involving:
+
+- 🌐 Business websites
+- 🩺 Healthcare & clinic websites
+- 🎯 Landing pages
+- ✨ Website redesigns
+- 📱 Responsive front-end implementation
+- ⚡ Interactive UI experiences
+
+<div align="center">
+
+### Have a project in mind?
+
+[![GitHub](https://img.shields.io/badge/View%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahdi-1949)
+
+</div>
+
+---
+
+<div align="center">
+
+**Building better web experiences, one project at a time.**
+
+</div>

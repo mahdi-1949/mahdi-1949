@@ -26,9 +26,6 @@ My current portfolio focus includes **healthcare and clinic websites, business w
 | --- | --- | --- | --- |
 | 🩺 **Pacific Pain Clinic** | Healthcare website redesign concept focused on trust, treatment clarity and appointment UX | HTML · CSS · JavaScript | [View Project](https://github.com/mahdi-1949/pacific-pain-clinic-concept) |
 | 💼 **Portfolio Website** | Responsive multi-page personal portfolio | HTML · SCSS · JavaScript | [View Project](https://github.com/mahdi-1949/portfolio) |
-| ⚡ **Vanilla JavaScript Projects** | Interactive apps, games, utilities and API-driven experiments | JavaScript · HTML · CSS | [View Collection](https://github.com/mahdi-1949/vanilaJavaScript-projects) |
-| 📱 **Responsive Design** | Adaptive layouts, navigation and interface experiments | HTML · CSS · JavaScript | [View Collection](https://github.com/mahdi-1949/responsive-design) |
-| ✨ **Creative Components** | Animated UI and reusable front-end interactions | HTML · CSS · JavaScript | [View Components](https://github.com/mahdi-1949/creative-components) |
 
 ---
 
@@ -39,7 +36,6 @@ My current portfolio focus includes **healthcare and clinic websites, business w
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
